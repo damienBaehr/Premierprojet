@@ -13,8 +13,25 @@ nav{
 }
 
 
-
-
+.apropos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.content p{
+    width: 40%;
+}
+.content h2{
+    font-size: 40px;
+    color: #ea4c89;
+    padding-bottom: 40px;
+}
+.content button{
+    padding: 15px 50px;
+    color: red;
+    margin-top: 40px;
+}
 .container{
     width: 550px;
     max-width: 550px;
